@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yassineboukhla
+- 👀 I’m interested in CS
+- 🌱 I’m currently in my final year of Master's degree ( Software Engineering )
+- 💞️ I’m looking for a 4-6 months internship starting from February
+- 📫 How to reach me -> yassineboukhla.com
