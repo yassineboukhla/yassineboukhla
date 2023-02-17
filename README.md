@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine BOUKHLA</h1>
-<h3 align="center">I'm a frontend developer from Morocco</h3>
+<h3 align="center">I'm a Software Engineer from Morocco</h3>
 <p align="center"><img src="https://66.media.tumblr.com/e030c40b7148624942288e5141ec23d1/tumblr_n9vq8z8uNw1sw36p6o1_500.gif" width="300px" height="300px" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineboukhla&label=Profile%20views&color=0e75b6&style=flat" alt="yassineboukhla" /> </p>
 
